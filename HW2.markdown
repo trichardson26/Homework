@@ -1,6 +1,8 @@
+---
 layout: page
 title: HW2
 permalink: /HW2/
+---
 <h1>HW2<h1>
 <h5>This is a heading</h5>
 <h3> Here's a smaller heading</h3>
