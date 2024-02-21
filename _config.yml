@@ -23,11 +23,7 @@
 title: Homework 2
 email: trichardson26@jcu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Homework 2 will center on GitHub, Jekyll, and Markdown, covering key
-aspects such as GitHub’s repository management and collaboration tools,
-setting up a Jekyll website locally with proper configuration, mastering
-Markdown syntax for formatting tasks, customizing the Jekyll website
-by adding pages and modifying themes, and deploying the website using
+ Homework 2 will center on GitHub, Jekyll, and Markdown, covering key aspects such as GitHub’s repository management and collaboration tools, setting up a Jekyll website locally with proper configuration, mastering Markdown syntax for formatting tasks, customizing the Jekyll website by adding pages and modifying themes, and deploying the website using
 GitHub Pages.
 baseurl: "Homework" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
