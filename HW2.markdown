@@ -3,29 +3,31 @@ layout: page
 title: HW2
 permalink: /HW2/
 ---
-<h1>HW2<h1>
-<h5>This is a heading</h5>
-<h3> Here's a smaller heading</h3>
-<h6>This is a paragraph</h6>
+  
+# This is a heading
+  
+## Here's a smaller heading
+
+This is a paragraph
   
 **this will be bold** ~~this will be strikedthrough~~ <ins>this will be underlined</ins>
 
-<h1>Lists<h1>
-<h2>Unordered</h2>
+# Lists
+## Unordered
   
 - item one
 - item two
   - item a
   - item b
 
-<h2>Ordered</h2>
+## Ordered
 
 1. item 1
 2. item 2
 3. item 3
 4. item 3a
 
-<h1>Table</h1>
+# Table
 
 | Command | Description |
 | -------: | :----------- |
